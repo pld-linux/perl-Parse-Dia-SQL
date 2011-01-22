@@ -12,7 +12,7 @@ Version:	0.16
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Parse/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/A/AF/AFF/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d5500c9a8ec1d8fe5182236c6d41d22a
 URL:		http://search.cpan.org/dist/Parse-Dia-SQL/
 BuildRequires:	perl-devel >= 1:5.8.0
