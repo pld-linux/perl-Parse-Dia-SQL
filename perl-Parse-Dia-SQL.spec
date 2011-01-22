@@ -18,11 +18,11 @@ URL:		http://search.cpan.org/dist/Parse-Dia-SQL/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
-BuildRequires:	perl-Log-Dispatch-FileRotate
 BuildRequires:	perl-Log-Log4perl
 BuildRequires:	perl-Test-Exception
 BuildRequires:	perl-Text-Table
 BuildRequires:	perl-XML-DOM
+BuildRequires:	perl-XML-Parser
 %endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
