@@ -8,12 +8,12 @@
 Summary:	Parse::Dia::SQL - Convert Dia class diagrams into SQL
 #Summary(pl.UTF-8):	
 Name:		perl-Parse-Dia-SQL
-Version:	0.16
+Version:	0.17
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/A/AF/AFF/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d5500c9a8ec1d8fe5182236c6d41d22a
+# Source0-md5:	01eb6c82bf8abad6ad059a8a3edc6d4c
 URL:		http://search.cpan.org/dist/Parse-Dia-SQL/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
