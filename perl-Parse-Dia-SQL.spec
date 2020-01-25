@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Parse
 %define	pnam	Dia-SQL
 Summary:	Parse::Dia::SQL - Convert Dia class diagrams into SQL
